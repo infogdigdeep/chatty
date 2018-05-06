@@ -1,0 +1,23 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "Chat for Information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infogdigdeep/chatty.git"
+  },
+  "keywords": [
+    "chat",
+    "information"
+  ],
+  "author": "Wai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infogdigdeep/chatty/issues"
+  },
+  "homepage": "https://github.com/infogdigdeep/chatty#readme"
+}
